@@ -1,21 +1,21 @@
 {
   "name": "swtor-logs",
   "version": "1.0.0",
-  "description": "A companion app for Star Wars: The Old Republic",
+  "description": "A companion app for analyzing the combat logs of Star Wars: The Old Republic",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cjmarsh725/evenumbers.git"
+    "url": "git+https://github.com/cjmarsh725/swtor-logs.git"
   },
   "author": "Chris Marsh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cjmarsh725/evenumbers/issues"
+    "url": "https://github.com/cjmarsh725/swtor-logs/issues"
   },
-  "homepage": "https://github.com/cjmarsh725/evenumbers#readme",
+  "homepage": "https://github.com/cjmarsh725/swtor-logs#readme",
   "devDependencies": {
     "electron": "^7.1.10"
   }
